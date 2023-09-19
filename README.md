@@ -1,5 +1,8 @@
 # RealWorld Example App
 
+See the tutorial
+https://www.youtube.com/watch?v=KmOeFrwz8BM
+
 > ### axum + yew + shuttle codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 
